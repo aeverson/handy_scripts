@@ -1,3 +1,7 @@
+# You can use this script with no args, with one arg for the user ID, or two (or more) args for the user ID and tags to add
+# You need to replace 'subdomain' on line 31 with your zendesk subdomain
+# You also need to enter agent credentials on lines 32 (agent email address) and 33 (password)
+
 import requests
 import sys
 import json
