@@ -1,0 +1,5 @@
+This generates a bulk amount of tickets using a list of different "lorem ipsum" texts.
+Change the for loop to adjust for how many tickets you want.
+Add the requester name and the requester's email address. 
+Enter your subdomain, agent email address, and agent password.
+Then you're good to go!
