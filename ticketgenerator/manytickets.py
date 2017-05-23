@@ -16,9 +16,9 @@ for x in range(0, 7590):
 	payload = json.dumps(data)
 
 # Set the request parameters
-	url = 'https://z3ntrashpanda.zendesk.com/api/v2/tickets.json'
-	user = 'bmanning@zendesk.com/token'
-	pwd = 'L32j5yMIRFA2coSK2UlJPvdHYO3zViXm7M5j6DLS'
+	url = ''
+	user = ''
+	pwd = ''
 	headers = {'content-type': 'application/json'}
 
 # Do the HTTP post request
